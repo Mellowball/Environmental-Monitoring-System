@@ -6,7 +6,7 @@
 Environmental measurement sensor control and Wi-Fi connection
 + <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> – Realtime Database
 + <img src ="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> - Raspberry Pi Programming Language
-+ <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/> - LCD Panel(with Wi-Fi)
++ <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/> - Touch Display(with Wi-Fi)
 
 ## 프로젝트 설명
 + 실내 환경 데이터를 측정하는 센서를 인터넷과 연결하여 센싱한 데이터를 그래프 구조로 보도록 구현하는 프로젝트
