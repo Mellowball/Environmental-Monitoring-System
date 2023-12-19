@@ -18,11 +18,21 @@ Environmental measurement sensor control and Wi-Fi connection
 ---
 ## 핵심 기능 설명
 
-### 0. Index
-+ <img src ="https://github.com/Mellowball/Games-using-Myo_Armband/blob/main/img_Readme/0-index.png"/>
-
+<img src ="https://github.com/Mellowball/environmental-measuring-instrument/blob/main/readme_img/0.png"/>
+<img src ="https://github.com/Mellowball/environmental-measuring-instrument/blob/main/readme_img/1.png"/>
+<img src ="https://github.com/Mellowball/environmental-measuring-instrument/blob/main/readme_img/2-1.png"/>
+<img src ="https://github.com/Mellowball/environmental-measuring-instrument/blob/main/readme_img/2-2.png"/>
+<img src ="https://github.com/Mellowball/environmental-measuring-instrument/blob/main/readme_img/2-3.png"/>
+<img src ="https://github.com/Mellowball/environmental-measuring-instrument/blob/main/readme_img/2-4.png"/>
+<img src ="https://github.com/Mellowball/environmental-measuring-instrument/blob/main/readme_img/2-5.png"/>
+<img src ="https://github.com/Mellowball/environmental-measuring-instrument/blob/main/readme_img/3.png"/>
+<img src ="https://github.com/Mellowball/environmental-measuring-instrument/blob/main/readme_img/4-1.png"/>
+<img src ="https://github.com/Mellowball/environmental-measuring-instrument/blob/main/readme_img/4-2.png"/>
 
 ## 실제 구현 뷰
 
-<img src ="https://github.com/Mellowball/Games-using-Myo_Armband/blob/main/img_Readme/dino_game.gif"/>
-  
+### 센서 및 아두이노 정상 동작 확인
+<img src ="https://github.com/Mellowball/environmental-measuring-instrument/blob/main/readme_img/arduino.gif"/>
+
+### 실시간 데이터 수신 및 그래프 출력 확인
+<img src ="https://github.com/Mellowball/environmental-measuring-instrument/blob/main/readme_img/raspi.gif"/>  
