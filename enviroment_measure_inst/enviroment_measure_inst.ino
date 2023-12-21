@@ -16,9 +16,9 @@ int PM1_0, PM2_5, PM10;
 #include <addons/RTDBHelper.h>
 
 // 파이어베이스 개인정보
-#define DATABASE_URL "https://sensingtemhum-default-rtdb.firebaseio.com/"
-#define API_KEY "AIzaSyCkbQ0ocsNCKdr4qqfW3RBQihdPvE3-lPU"
-#define USER_EMAIL "kdoch1009@gmail.com"
+#define DATABASE_URL "https://envmeasure-bcf3c-default-rtdb.firebaseio.com/"
+#define API_KEY "AIzaSyDx3VadN0eWT7JiHhlt0kWMSa4uQCp9G5U"
+#define USER_EMAIL "rodemeng@rodemeng.com"
 #define USER_PASSWORD "rodemeng2019"
 
 // 파이어베이스 데이터 객체 설정
