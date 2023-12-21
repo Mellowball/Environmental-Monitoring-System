@@ -31,8 +31,8 @@ Environmental measurement sensor control and Wi-Fi connection
 
 ## 실제 구현 뷰
 
-### 센서 및 아두이노 정상 동작 확인
-+ <img src ="https://github.com/Mellowball/environmental-measuring-instrument/blob/main/readme_img/arduino.gif"/>
+### 1. 센서 및 아두이노 정상 동작 확인
+<img src ="https://github.com/Mellowball/environmental-measuring-instrument/blob/main/readme_img/arduino.gif"/>
 
-### 실시간 데이터 수신 및 그래프 출력 확인
-+ <img src ="https://github.com/Mellowball/environmental-measuring-instrument/blob/main/readme_img/raspi.gif"/>  
+### 2. 실시간 데이터 수신 및 그래프 출력 확인
+<img src ="https://github.com/Mellowball/environmental-measuring-instrument/blob/main/readme_img/raspi.gif"/>  
