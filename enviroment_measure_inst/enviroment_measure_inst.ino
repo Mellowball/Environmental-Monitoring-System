@@ -3,8 +3,8 @@
 #include <Adafruit_BMP280.h>    //Adafruit_BME280_Library by Adafruit
 #include <SoftwareSerial.h>
 
-const char* ssid = "iptimea704";        // 와이파이 이름
-const char* password = "rodemeng2019";  // 와이파이 비밀번호
+const char* ssid = "";        // 와이파이 이름
+const char* password = "";  // 와이파이 비밀번호
 Adafruit_BMP280 bmp;                    // I2C
 SoftwareSerial pmsSerial(D6, D5);       // RX, TX
 unsigned char pms[32];
@@ -16,10 +16,10 @@ int PM1_0, PM2_5, PM10;
 #include <addons/RTDBHelper.h>
 
 // 파이어베이스 개인정보
-#define DATABASE_URL "https://envmeasure-bcf3c-default-rtdb.firebaseio.com/"
-#define API_KEY "AIzaSyDx3VadN0eWT7JiHhlt0kWMSa4uQCp9G5U"
-#define USER_EMAIL "rodemeng@rodemeng.com"
-#define USER_PASSWORD "rodemeng2019"
+#define DATABASE_URL ""
+#define API_KEY ""
+#define USER_EMAIL ""
+#define USER_PASSWORD ""
 
 // 파이어베이스 데이터 객체 설정
 FirebaseData fbdo;

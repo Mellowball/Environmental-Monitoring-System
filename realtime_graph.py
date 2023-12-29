@@ -4,11 +4,11 @@ from firebase_admin import db
 import matplotlib.pyplot as plt
 
 # Firebase 서비스 계정 키 파일 경로
-cred = credentials.Certificate("envmeasure-bcf3c-firebase-adminsdk-elykz-7a1faf0926.json")
+cred = credentials.Certificate(".json")
 
 # Firebase 앱 초기화 실시간버전
 firebase_admin.initialize_app(cred, {
-    'databaseURL': 'https://envmeasure-bcf3c-default-rtdb.firebaseio.com/'
+    'databaseURL': ''
 })
 
 # 변수명과 참조를 매핑
